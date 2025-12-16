@@ -1,0 +1,223 @@
+#d1{
+  /* border:4px dashed green; */
+  width:400px;
+  height:180px;
+background-image: url('mehanic.jpeg ');
+background-repeat: no-repeat;
+float:left;
+/* background-size: 700px; */
+}
+#n{
+  /* border:1px solid black; */
+  width:800px;
+  height:200px;
+  margin-left:400px;
+  /* float:left; */
+  /* position: static; */
+  /* margin-left:400px; */
+  
+}
+
+#h{
+  border:2px solid black;
+  width:400px;
+  height:300px;
+  margin-top:20px;
+  float:left;
+  margin-left:20px;
+  /* background-color: aquamarine; */
+
+}
+#he{
+  border:1px solid black;
+  width:90px;
+  height: 40px;
+  margin-top:10px;
+  margin-left:10px;
+padding-left:20px;
+padding-top:20px;
+
+}
+#he:hover{
+  background-color: aqua;
+  font-size: 20px;
+  font-weight: bold;
+}
+#s{
+  font-size:60px;
+  font-weight: bold;
+  margin-left: 30px;
+  color:blue;
+}
+#c{
+  font-size:50px;
+  font-weight: bold;
+  margin-left: 30px;
+  color:green;
+  margin-top:10px;
+}
+#her{
+  border:1px solid black;
+  width:350px;
+  height:180px;
+  margin-top:50px;
+  display: none;
+}
+#he:hover #her{
+  display: block;
+}
+
+#hn{
+  color:red;
+  font-size:25px;
+}
+
+
+
+
+#h1{
+  /* background-color: aquamarine; */
+  border:2px solid black;
+  width:400px;
+  height:300px;
+  margin-top:20px;
+float:left;
+margin-left:20px;
+}
+#he1{
+  border:1px solid black;
+  width:100px;
+  height: 40px;
+  margin-top:10px;
+  margin-left:10px;
+padding-left:20px;
+padding-top:20px;
+}
+#her1{
+  border:1px solid black;
+  width:350px;
+  height:190px;
+  margin-top:50px;
+  display: none;
+}
+#he1:hover #her1{
+  display: block;
+}
+#he1:hover{
+  background-color: aqua;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+
+#h2{
+  /* background-color: aquamarine; */
+  border:2px solid black;
+  width:400px;
+  height:300px;
+  margin-top:20px;
+float:left;
+margin-left:20px;
+}
+#he2{
+  border:1px solid black;
+  width:150px;
+  height: 40px;
+  margin-top:10px;
+  margin-left:10px;
+padding-left:20px;
+padding-top:20px;
+}
+#her2{
+  border:1px solid black;
+  width:350px;
+  height:190px;
+  margin-top:50px;
+  display: none;
+}
+#he2:hover #her2{
+  display: block;
+}
+#he2:hover{
+  background-color: aqua;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* END OF MOVIE POSTER */
+
+#r1{
+  border:2px solid black;
+  height:800px;
+
+}
+#r3{
+  /* border:2px solid black; */
+  width:200px;
+  height:200px;
+  margin-top:20px;
+  margin-left:80px;
+  background-image: url('profile.jpeg');
+  float:left;
+
+
+}
+#r4{
+  /* border:1px solid black; */
+  width:350px;
+  height:200px;
+  float:left;
+  margin-top:20px;
+  margin-left:130px;
+
+}
+#r5{
+  /* border:1px solid black; */
+  width:350px;
+  height:200px;
+  float:left;
+  margin-top:20px;
+  margin-left:130px;
+}
+
+.sp1{
+  margin-left:30px;
+  font-size:25px;
+  color:red;
+
+}
+#li{
+  margin-top:300px;
+  height:2px;
+  background-color: black;
+}
+/* #r5{
+  border:1px solid black;
+  width:500px;
+  height:500px;
+} */
+#r7{
+  /* border:1px solid black; */
+  width:400px;
+  height:400px;
+  float:left;
+  /* margin-top:10px; */
+  margin-left:30px;
+}
+#r8{
+  /* border:1px solid black; */
+  width:400px;
+  height:300px;
+  /* float:left; */
+  margin-left:600px;
+  margin-top:30px;
+  /* margin-bottom:800px */
+}
+#r9{
+  border:2px solid black;
+  height:455px;
+  width:1px;
+  float:left;
+  background-color: black;
+  margin-left: 90px;
+}

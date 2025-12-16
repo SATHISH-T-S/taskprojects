@@ -1,0 +1,73 @@
+/* @import 'tailwindcss' */
+#div1{
+    background-color: antiquewhite;
+    height:40px;
+    text-align: center;
+    color:black;
+    font-size: xx-large;
+    font-weight:bold;
+    border-radius: 4px;
+}
+#div2{
+    background-color: bisque;
+    height:100px;
+    display: flex;
+    margin-top: 10px;
+    /* justify-content: center; */
+
+
+}
+.div3{
+    background-color: aqua;
+    width:100px;
+    height:30px;
+    border-radius: 4px;
+    text-align: center;
+    /* justify-content: center; */
+    padding-top: 10px;
+    margin-top:20px;
+    margin-left: 250px;
+font-size: 20px;
+font-weight: bold;
+}
+#div4{
+    background-color: aquamarine;
+    height:100px;
+    margin-top: 10px;
+    border-radius: 4px;
+    display: flex;
+
+}
+.div5{
+    background-color: rgb(236, 236, 217);
+    width:150px;
+    height:40px;
+    margin-left:200px;
+    margin-right: 300px;
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 10px;
+
+
+  /* display: flex; */
+}
+#div6{
+    background-color:azure;
+    height:100px;
+    margin-top:10px;
+    border-radius: 4px;
+    text-align: center;
+    /* padding: auto; */
+}
+
+#div7{
+    background-color: aqua;
+    width:800px;
+    margin-left:200px;
+    height:600px;
+    margin-top:10px;
+
+}
+#btn1{
+    margin-left:370px;
+}

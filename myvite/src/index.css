@@ -1,0 +1,196 @@
+/* #h{
+  color:red;
+
+}
+#s{
+  color:green;
+  font-family: 'Courier New', Courier, monospace;
+}
+#d{
+  border:2px solid black;
+  width:630px;
+  margin: auto;
+  padding: auto;
+
+} */
+  /* SINGLE COMPONENT */
+#des{
+  border:2px solid violet;
+  width:458px;
+  height:400px;
+  position:static;
+  margin-left:780px;
+  margin-top:400px;
+}
+#mo{
+  /* border:1px solid black; */
+  width:300px;
+  height:300px;
+  margin-left:50px;
+}
+#div0{
+width:800px;
+height:300px;
+}
+#div01{
+width:800px;
+height:300px;
+}
+
+#div1{
+  border-radius: 2cap ;
+  border:5px solid green;
+  width:1280px;
+  height:350px;
+background-image: url('headtitle.jpg');
+background-repeat: no-repeat;
+}
+#div2{
+  position: absolute;
+  margin-left: 800px;
+}
+#h1{
+  color:red;
+  
+  font-size: 600%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#h2{
+  color:black;
+}
+#span1{
+  color:palevioletred;
+  font-size:25px;
+}
+#div3{
+  border:2px dashed black;
+  width:150px;
+  text-align:center;
+  margin-top: 10px;
+  position:relative;
+}
+#h3{
+  color:black;
+
+}
+#div4{
+  border:2px solid black;
+  position:absolute;
+  margin-top: 10px;
+  width:500px;
+  height:200px;
+  display:none;
+}
+#div5{
+  border:1px solid black;
+  margin-top: 4px;
+  width:200px;
+/* display: flex; */
+  height:190px;
+  float:left;
+  background-image: url('alluarjun.jpeg');
+}
+#div6{
+/* border:1px solid black; */
+  margin-top: 4px;
+  width:250px;
+/* display: flex; */
+  height:190px;
+  margin-left: 20px;
+  float:left;
+}
+#div3:hover #div4{
+display:block;
+background-color:paleturquoise;
+}
+
+
+
+#div7{
+  border:2px dashed black;
+  width:150px;
+  text-align:center;
+  margin-top: 10px;
+  position:relative;
+}
+#h7{
+  color:black;
+
+}
+#div8{
+  border:2px solid black;
+  position:absolute;
+  margin-top: 10px;
+  width:500px;
+  height:200px;
+  display:none;
+}
+#div9{
+  border:1px solid black;
+  margin-top: 4px;
+  width:200px;
+/* display: flex; */
+  height:190px;
+  float:left;
+  background-image: url('AnuradhaMehta.jpeg');
+}
+#div10{
+/* border:1px solid black; */
+  margin-top: 4px;
+  width:250px;
+/* display: flex; */
+  height:190px;
+  margin-left: 20px;
+  float:left;
+}
+#div7:hover #div8{
+display:block;
+background-color:paleturquoise;
+}
+
+
+
+
+#div11{
+  border:2px dashed black;
+  width:150px;
+  text-align:center;
+  margin-top: 10px;
+  position:relative;
+}
+#h11{
+  color:black;
+
+}
+#div12{
+  border:2px solid black;
+  position:absolute;
+  margin-top: 10px;
+  width:500px;
+  height:200px;
+  display:none;
+}
+#div13{
+  border:1px solid black;
+  margin-top: 4px;
+  width:200px;
+/* display: flex; */
+  height:190px;
+  float:left;
+  background-image: url('sukumar.jpeg');
+}
+#div14{
+/* border:1px solid black; */
+  margin-top: 4px;
+  width:250px;
+/* display: flex; */
+  height:190px;
+  margin-left: 20px;
+  float:left;
+}
+#div11:hover #div12{
+display:block;
+background-color:paleturquoise;
+}
+
