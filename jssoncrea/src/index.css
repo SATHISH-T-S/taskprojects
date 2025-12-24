@@ -1,0 +1,20 @@
+#div1{
+    border:1px solid black;
+    width:1200px;
+    height:600px;
+    margin-left: 60px;
+    display: flex;
+
+}
+#div2{
+    border:2px dashed greenyellow;
+    width:220px;
+    height:550px;
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
+#sp{
+    color:red;
+    font-weight: bold;
+}

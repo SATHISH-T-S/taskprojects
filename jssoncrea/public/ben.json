@@ -1,0 +1,9 @@
+
+{"Ben":[
+    {"id":1,"name":"GOOP","strength":"89%","intelligence":"GOOD","AlienTechnology":"JELLY"},
+    {"id":2,"name":"SWAM FIRE","strength":"93%","intelligence":"GOOD","AlienTechnology":"TREE POWER"},
+    {"id":3,"name":"BigChill","strength":"98%","intelligence":"GOOD","AlienTechnology":"ICE"},
+    {"id":4,"name":"Rath","strength":"100%","intelligence":"BAD","AlienTechnology":"FAST FIGHT"},
+    {"id":5,"name":"Echo Echo","strength":"79%","intelligence":"AVERAGE","AlienTechnology":"VIBRATION"}
+
+]}
