@@ -24,8 +24,10 @@ const App=()=>{
 const [Sample,setSample]=useState([])
 
 const fun1=async()=>{
-const alien=await fetch("/ben.json")
+
+    const alien=await fetch("/ben.json")
 console.log(alien);
+
 const aliens=await alien.json();
 console.log(aliens)
 setSample(aliens.Ben);

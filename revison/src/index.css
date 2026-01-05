@@ -1,0 +1,39 @@
+/* @import 'tailwindcss' */
+
+#div1{
+    border:1px solid black;
+    width:800px;
+    height:200px;
+    border-radius: 5px;
+    margin-left: 140px;
+    display: flex;
+}
+#div2{
+    border:1px solid black;
+    width:200px;
+    height:90px;
+    margin-left: 90px;
+    padding: 7px;
+    text-align: center;
+    margin-top: 20px;
+    /* justify-content: center; */
+    /* justify-items: center; */
+
+}
+#div3{
+    border:2px solid green;
+    width:500px;
+    height:250px;
+    margin-left: 90px;
+    margin-top: 50px;
+}
+.s2{
+    font-size: 20px;
+    color:red;
+    background-color: aqua;
+
+}
+.s1{
+    color:green;
+    background-color: beige;
+}

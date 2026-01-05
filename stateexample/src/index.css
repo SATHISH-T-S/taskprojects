@@ -1,0 +1,32 @@
+#div1{
+    width:800px;
+    border:1px solid black;
+    height:30px;
+    padding:2px;
+    text-align:right;
+    margin-top:5px;
+    background-color: black;
+    
+}
+
+.div1{
+    width:800px;
+    border:1px solid black;
+    height:30px;
+    padding:2px;
+    text-align:right;
+    margin-top:5px;
+    background-color: black;
+    color:white;
+}
+.div2{
+      width:800px;
+    border:1px solid black;
+    height:30px;
+    padding:2px;
+    text-align:right;
+    margin-top:5px;
+    color:black;
+    background-color:white;
+
+}
